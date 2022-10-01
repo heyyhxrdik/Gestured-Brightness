@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/96730754/150626171-a2491b02-fa35-44a2-
 Clone the project
 
 ```bash
-  git clone https://github.com/radialia/Gestured-Brightness
+  git clone https://github.com/heyyhxrdik/Gestured-Brightness
 ```
 
 Go to the project directory
